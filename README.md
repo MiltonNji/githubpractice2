@@ -1,1 +1,5 @@
-# githubpratice
+<<<<<<< HEAD
+
+=======
+# githubpractice
+>>>>>>> upstream/developer
